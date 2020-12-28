@@ -1,0 +1,7 @@
+[submodule "pspy"]
+	path = pspy
+	url = https://github.com/DominicBreuker/pspy
+
+[submodule "lxd-alpine-builder"]
+	path = exploit-tabby/lxd-alpine-builder
+	url = https://github.com/saghul/lxd-alpine-builder
